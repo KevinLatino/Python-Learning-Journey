@@ -5,7 +5,7 @@ animals = ["dog", "cat", "monkey"]
 animalsMatrix = [
     ["dog", "cat", "monkey"],
     ["cow", "leon", "bull"],
-    ["crocodile", "duck", "phanter", "swsw" ]
+    ["crocodile", "duck", "phanter"]
 ]
 
 # console: Leon
